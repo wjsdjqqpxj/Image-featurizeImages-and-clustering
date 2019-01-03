@@ -1,4 +1,7 @@
 
+# ※ 사전에 이미지 데이터를 feature별로 분류시켜야 합니다.
+
+
 ## 1단계 Preparingdata
 
 
